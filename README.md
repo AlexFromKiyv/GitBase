@@ -39,7 +39,7 @@ To file add line errors.txt
 ```
 git add .
 ```
-Add dir logs and file logs.txt
+Add dir logs and file logs.txt<br/>
 Change .gitignore add \logs
 ```
 git add .
