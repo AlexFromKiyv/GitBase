@@ -34,7 +34,7 @@ Add file errors.txt
 ```
 git status
 ```
-Add file .gitignore
+Add file .gitignore<br/>
 To file add line errors.txt
 ```
 git add .
