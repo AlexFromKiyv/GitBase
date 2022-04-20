@@ -114,7 +114,6 @@ git commit -m "change script.js"
 git pull
 ```
 
-
-https://www.markdownguide.org/cheat-sheet/
+Markdown https://www.markdownguide.org/cheat-sheet/
 
 
