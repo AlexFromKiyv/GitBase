@@ -26,6 +26,7 @@ Change .gitignore add \logs
 git add .
 git commit -m "added .gitignore"
 
+
 git status
 git branch
 git branch test
@@ -48,6 +49,8 @@ git status
 git branch
 git merge readme
 git branch -D readme
+
+
 On GitHub add repository TestDoc
 git config --global user.name "***"
 git config --global user.email "em@em.ua"
