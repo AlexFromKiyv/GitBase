@@ -5,7 +5,7 @@ Setup git git.com
 Create repository locally
 
 Enter to dir and open command line.
-git init
+`code` git init
 echo "info about this project" >> README.md
 Add file index.html
 git status
