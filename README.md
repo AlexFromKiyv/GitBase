@@ -1,20 +1,25 @@
-Work with git.
+# Work with git.
 
 Setup git git.com
 
-Create repository locally
+## Create repository locally
 
 Enter to dir and open command line.
-`code` git init
+```
+git init
 echo "info about this project" >> README.md
+```
 Add file index.html
+```
 git status
+```
 Add file script.js
+```
 git add . ( add 2 file )
 git status
 cls
-
-Commit
+```
+## Commit
 
 Change index.html
 git status
@@ -31,7 +36,7 @@ Change .gitignore add \logs
 git add .
 git commit -m "added .gitignore"
 
-Branch
+## Branch
 
 git status
 git branch
@@ -56,7 +61,7 @@ git branch
 git merge readme
 git branch -D readme
 
-Remote
+## Remote
 
 On GitHub add repository TestDoc
 git config --global user.name "***"
@@ -71,7 +76,7 @@ git add script.js
 git commit -m "updated script.js"
 git push
 
-Clone
+## Clone
 
 Create dir NewProject
 cd NewProject
