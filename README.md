@@ -2,6 +2,8 @@ Work with git.
 
 Setup git git.com
 
+Create repository locally
+
 Enter to dir and open command line.
 git init
 echo "info about this project" >> README.md
@@ -11,6 +13,9 @@ Add file script.js
 git add . ( add 2 file )
 git status
 cls
+
+Commit
+
 Change index.html
 git status
 git add index.html (or git add.)
@@ -26,6 +31,7 @@ Change .gitignore add \logs
 git add .
 git commit -m "added .gitignore"
 
+Branch
 
 git status
 git branch
@@ -50,6 +56,7 @@ git branch
 git merge readme
 git branch -D readme
 
+Remote
 
 On GitHub add repository TestDoc
 git config --global user.name "***"
@@ -64,15 +71,17 @@ git add script.js
 git commit -m "updated script.js"
 git push
 
+Clone
+
 Create dir NewProject
 cd NewProject
 git clone https://github.com/AlexFromKiyv/TestDoc.git
 open in VSC folder
 change script.js
-git add .
-git commit -m "change script.js"
 
 Open dir in console
+git add .
+git commit -m "change script.js"
 git pull
 
 
