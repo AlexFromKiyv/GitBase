@@ -1,6 +1,6 @@
 # Work with git.
 
-Setup git git.com
+Setup git https://git-scm.com/downloads
 
 ## Create repository locally
 
