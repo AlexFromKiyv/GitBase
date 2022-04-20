@@ -15,7 +15,7 @@ git status
 ```
 Add file script.js
 ```
-git add . ( add 2 file )
+git add .
 git status
 cls
 ```
